@@ -1,1 +1,1 @@
-# Flipcart
+# Flipcart clone  by using HTML and css .
